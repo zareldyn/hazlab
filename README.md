@@ -1,6 +1,8 @@
 # Hazlab
 A 3D random maze game (old project)
 
+![Hazlab screenshot](/screenshot.jpg?raw=true)
+
 This is an old, somewhat bad-coded game I made in 2009 that reached a version "1.1".  
 I share it just for fun.  
 The original purpose of this was to be a **C89<sup>1</sup> / OpenGL** training. Nevertheless, I'm still quite satisfied with how it renders on screen.
