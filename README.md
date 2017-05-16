@@ -1,4 +1,4 @@
-# Hazlab
+# ![Hazlab icon](/hazlab.ico?raw=true) Hazlab
 A 3D random maze game (old project)
 
 ![Hazlab screenshot](/screenshot.jpg?raw=true)
