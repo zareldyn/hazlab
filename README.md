@@ -3,19 +3,19 @@ A 3D random maze game (old project)
 
 ![Hazlab screenshot](/screenshot.jpg?raw=true)
 
-This is an old, somewhat bad-coded game I made in 2009 that reached a version "1.1".  
+This is an old, somewhat badly-coded game I made in 2009 that reached a version "1.1".  
 I share it just for fun.  
-The original purpose of this was to be a **C89<sup>1</sup> / OpenGL** training. Nevertheless, I'm still quite satisfied with how it renders on screen.
+The original purpose of this was to be a **C89<sup>1</sup> / OpenGL** training. However, I'm still quite satisfied with how it renders on screen.
 
 ## The code
 
 It uses GLUT, a deprecated library for OpenGL window handling.  
-I recently recompiled it easily on Linux, although it was originally developed under Windows; this means that the code is not so bad, finally ;-)
+I recently recompiled it easily on Linux, although it was originally developed under Windows environment; this means that the code is not so bad, finally ;-)
 
 Sorry for non-French speakers, but the functions, variables and comments are in French.  
-Also, as I made efforts (but with errors!) for it can be compiled strictly under any C89-compliant system, some functions could appear to be useless.
+Also, as I made efforts (but with errors!) for it can be compiled strictly on any C89-compliant system, some functions could appear to be useless.
 
-Just use the Makefile to compile it under Linux. You will need first to have GL / GLU / GLUT libraries installed on your system.
+Just use the Makefile to compile it on Linux. You will need first to have GL / GLU / GLUT libraries installed on your system.
 
 <sup>1</sup>: As European, it is ISO C90 for me ;-)
 
