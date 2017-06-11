@@ -31,7 +31,7 @@ At the beginning you are at the exact center of the maze. Of course, the exit is
 KEYS:
 - arrows to move through the maze
 - F1 disables/re-enables the use of MIPMAPS
-- F5/F6/F7 change the point of view: F5 is for first-person view, F6 is the defaut view, F7 can help on very large mazes
+- F5/F6/F7 change the point of view: F5 is for first-person view, F6 is the default view, F7 can help on very large mazes
 - F12 maximizes/restores the window
 - ESC returns to menu or exits the program
 
