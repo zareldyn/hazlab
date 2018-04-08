@@ -26,7 +26,8 @@ First, let's explain the name: "Haz" is for hasard (the French for random), with
 The program launches a graphical menu which lets you choose the maze size (again, it is French text).  
 It generates a random perfect maze according to the size you entered, and then you enter the game.
 
-At the beginning you are at the exact center of the maze. Of course, the exit is on one of the edges.
+At the beginning you are at the exact center of the maze. Of course, the exit is on one of the edges.  
+[This video](https://www.youtube.com/watch?v=QgMy_NRxm7o) shows what it looks like.
 
 KEYS:
 - arrows to move through the maze
