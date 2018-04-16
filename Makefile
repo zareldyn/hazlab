@@ -1,5 +1,5 @@
 hazlab:
-	gcc -O2 -Wall -o hazlab -lGLU -lm -lglut -lGL *.c
+	gcc -O2 -Wall *.c -o hazlab -lGLU -lm -lglut -lGL
 
 clean:
 	rm hazlab &>/dev/null
