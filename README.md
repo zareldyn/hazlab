@@ -1,5 +1,5 @@
 # ![Hazlab icon](/hazlab_icon.png?raw=true) Hazlab
-A 3D random maze game (old project)
+A 3D random maze game (old project).
 
 ![Hazlab screenshot](/screenshot.jpg?raw=true)
 
@@ -15,7 +15,7 @@ I recently recompiled it easily on Linux, although it was originally developed u
 Sorry for non-French speakers, but the functions, variables and comments are in French.  
 Also, as I made efforts (but with errors!) for it can be compiled strictly on any C89-compliant system, some functions could appear to be useless.
 
-Just use the Makefile to compile it on Linux. You will need first to have GL / GLU / GLUT libraries installed on your system.
+Just use the Makefile to compile it on Linux. You will need first to have GL / GLU / GLUT libraries installed on your system. It works well with freeGLUT, a replacement for GLUT.
 
 <sup>1</sup>: As European, it is ISO C90 for me ;-)
 
