@@ -1,6 +1,9 @@
 # ![Hazlab icon](/hazlab_icon.png?raw=true) Hazlab
 A 3D random maze game (old project).
 
+Note: a new version of the same concept is being constructed [here](https://github.com/lonequantum/hazlab2).  
+Hazlab2 is modern code, while Hazlab is personal, weird and old coding style.
+
 ![Hazlab screenshot](/screenshot.jpg?raw=true)
 
 This is an old, somewhat badly-coded game I made in 2009 that reached a version "1.1".  
